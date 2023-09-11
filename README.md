@@ -16,7 +16,7 @@ Ensure you have [Rust](https://www.rust-lang.org/tools/install) and Cargo (Rust'
 Clone the repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/yourusername/space-invaders-rust.git
+git clone https://github.com/mitriygor/rust-space-invaders.git
 ````
 
 Navigate to the project directory:
