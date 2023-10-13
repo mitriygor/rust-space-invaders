@@ -2,7 +2,7 @@
 
 It is a simple implementation of the Space Invaders on Rust using several libraries including `crossterm` for terminal rendering and `rusty_audio` for audio support.
 
-![Rust Space Invaders Game Screenshot](./assets/rust-space-invaders.png)
+![Rust Space Invaders Game Screenshot](./assets/rusty-space.gif)
 
 ## Getting Started
 
